@@ -1,0 +1,16 @@
+
+
+header{
+  background: #35424a;
+  color: #ffffff;
+  padding-top: 30px;
+  min-height: 70px
+}
+header nav{
+  float: right;
+  margin-top: 10px;
+}
+header{
+  color: white;
+  font-weight: bold;
+}
