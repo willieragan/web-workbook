@@ -1,16 +1,15 @@
-
-
-header{
-  background: #35424a;
-  color: #ffffff;
-  padding-top: 30px;
-  min-height: 70px
+body{
+background-image: url("../img/airline.jpg");
+background-repeat: no-repeat;
+background-size: auto;
 }
-header nav{
-  float: right;
-  margin-top: 10px;
+.navbar{
+  position: absolute;
+  background-color: #123754;
+  width: 100%;
+  background-size: cover;
+  padding: 10px;
 }
-header{
-  color: white;
-  font-weight: bold;
+.links{
+  right: 0;
 }
